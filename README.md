@@ -156,10 +156,3 @@ These values control the eye-closure threshold, mouth-opening threshold, and con
 - GitHub: [@aprajitayadav2901-eng](https://github.com/aprajitayadav2901-eng)
 - Project Repository: [DrowsyGuard-AI](https://github.com/aprajitayadav2901-eng/DrowsyGuard-AI)
 
-## 📄 License
-
-No license has been specified yet. If you want others to reuse, modify, or distribute this project, consider adding an appropriate open-source license.
-
----
-
-⭐ If you find this project interesting, consider starring the repository!
